@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="19.5" viewBox="0 0 17.5 19.5">
+  <g id="Calendar_Calendar_Check" data-name="Calendar / Calendar_Check" transform="translate(-3.25 -1.25)">
+    <path id="Vector" d="M4,8H20M4,8v8.8a4.967,4.967,0,0,0,.218,2.108,2,2,0,0,0,.874.874A4.962,4.962,0,0,0,7.2,20H16.8a4.957,4.957,0,0,0,2.1-.218,2,2,0,0,0,.875-.874A4.957,4.957,0,0,0,20,16.8V8M4,8V7.2a4.971,4.971,0,0,1,.218-2.108,2,2,0,0,1,.874-.874A4.971,4.971,0,0,1,7.2,4H8M20,8V7.2a4.962,4.962,0,0,0-.218-2.105,2,2,0,0,0-.875-.874A4.964,4.964,0,0,0,16.8,4H16M8,4h8M8,4V2m8,2V2M15,12l-4,4L9,14" fill="none" stroke="#1c274c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

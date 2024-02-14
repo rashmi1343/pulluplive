@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294198152135",
+    "project_id": "pull-up-live",
+    "storage_bucket": "pull-up-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294198152135:android:3f53ef51fa6adc3d65e7e2",
+        "android_client_info": {
+          "package_name": "com.app.pull_up_live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt9dVokgHk9mxc7-gnaVZvreiIi7JNRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
